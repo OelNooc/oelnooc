@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Catejo</h1>
-<h3 align="center">An Android Trainee developer from Chile</h3>
+<h3 align="center">An Android developer from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oelnooc&label=Profile%20views&color=0e75b6&style=flat" alt="oelnooc" /> </p>
 
@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [my portfolio](portafolio-lca.netlify.app)
 
-- 🌱 I’m currently learning **Kotlin, Firebase, and Flutter**
+- 🌱 I’m currently learning **Firebase, and Flutter**
 
 - 👯 I’m looking to collaborate on **some videogame project**
 
 - 👨‍💻 All of my projects are available at [portafolio-lca.netlify.app](portafolio-lca.netlify.app)
 
-- 💬 Ask me about **Java, html, css, python**
+- 💬 Ask me about **Kotlin, Android, Java, html, css, python**
 
-- 📫 How to reach me **leo.catejoa@gmail.com**
+- 📫 How to reach me **leo.catejoa@gmail.com or through my contact form on my portfolio**
 
 - ⚡ Fun fact **I make delicious desserts👨🏽‍🍳**
 
