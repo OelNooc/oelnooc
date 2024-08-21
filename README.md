@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oelnooc" alt="oelnooc" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](portafolio-lca.netlify.app)
+- 🔭 I’m currently working on [my portfolio](https://portfolio-lca.rf.gd) and some freelance projects
 
 - 🌱 I’m currently learning **Firebase, and Flutter**
 
-- 👯 I’m looking to collaborate on **some videogame project**
+- 👯 I’m looking to collaborate on **some videogame project** or in a fintech company
 
-- 👨‍💻 All of my projects are available at [portafolio-lca.netlify.app](portafolio-lca.netlify.app)
+- 👨‍💻 All of my projects are available at [this link](https://portfolio-lca.rf.gd/)
 
 - 💬 Ask me about **Kotlin, Android, Java, html, css, python**
 
