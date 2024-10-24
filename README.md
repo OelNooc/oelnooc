@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://portfolio-lca.rf.gd) and some freelance projects
 
-- 🌱 I’m currently learning **Firebase, and Flutter**
+- 🌱 I’m currently learning **Node.JS, Springboot and Flutter**
 
 - 👯 I’m looking to collaborate on **some videogame project** or in a fintech company
 
